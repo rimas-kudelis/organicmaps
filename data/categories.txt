@@ -848,7 +848,7 @@ id:Mendaur ulang|Pemanfaatan limbah|Dapat didaur ulang|Pemisahan pengumpulan sam
 it:Riciclo|Utilizzazione dei rifiuti|Ritiro dei materiali riciclabili|Separazione dei rifiuti|Raccolta differenziata|Riutilizzo
 ja:リサイクル|廃物利用|リサイクル可能なもの|ゴミの分別回収|ゴミの分別|再利用
 ko:재활용|쓰레기 활용|쓰레기 분리|폐기물 이용|재활용 가능|쓰레기 모음 분리|쓰레기 정리|재사용
-lt:5Antrinės žaliavos|4perdirbimas|3atliekų perdirbimas|5žiedinė ekonomika
+lt:4Perdirbimas|5antrinės žaliavos|3atliekų perdirbimas|5žiedinė ekonomika
 lv:Pārstrāde|Otrreizēja pārstrāde|Atkritumu šķirošana
 mr:भंगारवाला|पुनर्वापर|रिसायकल|कचरा व्यवस्थापन|पुनश्चक्रण
 nb:Resirkulering|Avfallsutnytting|Gjenvinningsstasjon|Kildesortering|Gjenbruk
